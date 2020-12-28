@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "chokidar": "^3.4.3",
+    "express": "^4.17.1",
+    "node-watch": "^0.7.1",
+    "socket.io": "^3.0.4"
+  }
+}
